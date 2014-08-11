@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<head>  
+</head>
+<style type="text/css">
+    .esquerda{
+        position: relative;
+        float: left;
+        width:100px;
+        height: 500px;
+        border:1px solid red;
+    }
+    .centro{
+        position: relative;
+        float: left;
+        width: 300px;
+        height: 500px;
+        border:1px solid red;
+    }
+    .direita1{
+        position: relative;
+        float: left;
+        width: 300px;
+        height: 150px;
+        border:1px solid red;
+    }
+    .direita2{
+        position: relative;
+        float: left;
+        margin-top: 10px;
+        width: 300px;
+        height: 150px;
+        border:1px solid red;
+    }
+    .direita3{
+        position: relative;
+        float: left;
+        margin-top: 10px;
+        width: 300px;
+        height: 150px;
+        border:1px solid red;
+    }
+    .sessao-direita{
+        position: relative;
+        float: left;
+        width: 300px;
+        height: 500px;
+    }
+</style>
+<body>
+	<div class="esquerda"></div>
+    <div class="centro"></div>
+    <div class="sessao-direita">
+    <div class="direita1"></div>
+    <div class="direita2"></div>
+    <div class="direita3"></div>
+    </div>
+</body>
+</html>
